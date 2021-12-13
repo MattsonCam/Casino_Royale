@@ -1,5 +1,3 @@
 # Casino_Royale
 ## Running the Program
-If running this program on Windows or other operating systems not linux-based, the path may need to be changed. This is mentioned, because the path is specified using '/' character, whereas Windows will use the backslash character to specify another level of a directory.
-## Potential Alternative Approaches
-We may want to just seperate the pandas dataframe into multiple dataframes, such as one for slots, one for table games, etc, based on the analysis we want to perform.
+Before running the casino_royale.ipynb file, please ensure that the excel_gaming_data folder is located in the same directory. Once you are ready to run the program, please either run the whole notebook, or run each cell sequentially starting at the first cell and ending at the last cell.
