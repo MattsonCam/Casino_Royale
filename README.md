@@ -1,7 +1,7 @@
 # Casino_Royale
 ## Contributors
 - Thomas Neal
-- Cameron Mattson a.k.a. RunawayKey
+- Cameron Mattson
 - Hayes Vavpetic
 - Michael Grodecki
 ## Github Project
